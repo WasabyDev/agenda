@@ -9,7 +9,7 @@ btnsalvarlembrete.addEventListener('click', adicionarlembrete);
 
     setInterval(function() {
         sendNotification('Lembrete', 'Lembre-se de fazer algo importante!');
-    }, 30 * 60 * 1000); 
+    }, 30 * 60 * 1000);;
 
 a
 }
